@@ -1,4 +1,4 @@
-let age = 20;
+let age = 18;
 
 if (age > 18) {
     console.log("Yes, Goa");
